@@ -1,4 +1,4 @@
-const affiliateTag = "YOUR-AMAZON-TAG";
+const affiliateTag = "sumairastor05-20";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
